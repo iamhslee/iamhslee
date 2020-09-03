@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=hslee1024&show_icons=true)
+[![Hyunseo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hslee1024&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### < English >
 Hi! My name is Hyunseo Lee, high school student in South Korea :D
