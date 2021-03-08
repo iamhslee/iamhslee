@@ -22,4 +22,4 @@ Thanks :D
 ### GitHub Status
 [![Hyunseo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hslee1024&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hyunseo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hslee1024&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyunseo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hslee1024&langs_count=5&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
