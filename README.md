@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi. My name is Hyunseo Lee :D
 
-[![Hyunseo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hslee1024&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### < English >
 Hi! My name is Hyunseo Lee, freshmen in Handong Global University in South Korea :D
@@ -16,3 +16,10 @@ Thanks :D
 부족한 부분을 알고있기에, 제 능력을 더욱 발전시키고 채워나가기 위해 오늘도 열심히 공부하고 있습니다!
 
 감사합니다 :D
+
+---
+
+### GitHub Status
+[![Hyunseo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hslee1024&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hyunseo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hslee1024&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
