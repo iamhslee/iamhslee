@@ -15,7 +15,6 @@ My name is Hyunseo Lee, and I'm a student in Handong Global University.
 * Python
 * Javascript
 * HTML
-* PHP
 
 ---
 
