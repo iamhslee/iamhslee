@@ -1,26 +1,24 @@
 ### Hi there 👋
-My name is Hyunseo Lee, and I'm a student in Handong Global University.
+My name is Hyunseo Lee, and I'm am an undergraduate in Handong Global University.
 
 ---
 
 #### 🙋‍♂️ About me
 * from South Korea
-* Freshman in Handong Global University (HGU)
-* Studied at Mandeok High School (MDHS)
+* 21' 03 ~ - Undergraduate in Handong Global University (HGU)
+* 18' 03 ~ 21' 03 - Studied at Mandeok High School (MDHS)
 
 ---
 
 #### 👨‍💻 Stack
 * C++
+* Java
 * Python
 * Javascript
-* HTML
 
 ---
 
 #### 👨‍🏫 I'm interested in
-* Security
-* Container
 * Machine Learning
 * Web Technology
 * UX & UI Design
