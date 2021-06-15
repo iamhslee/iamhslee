@@ -5,8 +5,8 @@ My name is Hyunseo Lee, and I'm am an undergraduate in Handong Global University
 
 #### 🙋‍♂️ About me
 * from South Korea
-* 21' 03 ~ - Undergraduate in Handong Global University (HGU)
-* 18' 03 ~ 21' 03 - Studied at Mandeok High School (MDHS)
+* Undergraduate in Handong Global University (HGU)
+* Studied at Mandeok High School (MDHS)
 
 ---
 
