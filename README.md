@@ -12,13 +12,13 @@ My name is Hyunseo Lee, and I'm am an undergraduate in Handong Global University
 
 #### 👨‍💻 Stack
 * C++
-* Java
 * Python
 * Javascript
 
 ---
 
 #### 👨‍🏫 I'm interested in
+* IoT
 * Machine Learning
 * Web Technology
 * UX & UI Design
