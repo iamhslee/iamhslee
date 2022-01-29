@@ -6,14 +6,12 @@ My name is Hyunseo Lee, and I'm am an undergraduate in Handong Global University
 #### 🙋‍♂️ About me
 * from South Korea
 * Undergraduate in Handong Global University (HGU)
-* Studied at Mandeok High School (MDHS)
 
 ---
 
 #### 👨‍💻 I can use:
 * C / C++ (Intermediate)
 * Python (Advanced)
-* Javascript (Beginner)
 
 ---
 
