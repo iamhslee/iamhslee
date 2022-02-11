@@ -9,18 +9,6 @@ My name is Hyunseo Lee, and I'm am an undergraduate in Handong Global University
 
 ---
 
-#### 👨‍💻 I can use:
-* C / C++ (Intermediate)
-* Python (Advanced)
-
----
-
-#### 👨‍🏫 I'm interested in
-* IoT
-* Machine Learning
-
----
-
 #### 💬 Contact
 * E-Mail : ```iam@hslee.tech```
 
