@@ -1,13 +1,7 @@
 ### Hi there 👋
-My name is Hyunseo Lee, and I'm am an undergraduate in Handong Global University.
+My name is Hyunseo Lee, and I'm am an undergraduate student in Handong Global University @ South Korea.
 
 ---
 
-#### 🙋‍♂️ About me
-* from South Korea
-* Undergraduate in Handong Global University (HGU)
-
----
-
-#### 💬 Contact
+### 💬 Contact
 * E-Mail : ```iam@hsl.ee```
