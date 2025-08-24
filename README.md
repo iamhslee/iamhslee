@@ -1,2 +1,2 @@
 ### Hi there 👋
-My name is Hyunseo Lee, and I'm am an undergraduate student in Handong Global University @ South Korea.
+My name is Hyunseo Lee, and I'm an undergraduate student in Handong Global University @ South Korea.
